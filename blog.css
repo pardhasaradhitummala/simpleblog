@@ -1,0 +1,86 @@
+.heading {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #ce2e6c;
+
+}
+
+body {
+    background-color: #f9f9f9;
+}
+
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.content {
+    width: 70%;
+    float: left;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    color: #504658;
+}
+
+.blogimg {
+    float: left;
+    margin: 10px;
+    
+}
+
+.date {
+    
+    color: #ce2e6c;
+}
+
+.rightbar {
+    width: 25%;
+    float: right;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    color: #504658;
+    
+}
+
+.title {
+   color: #ce2e6c;
+}
+
+a {
+    text-decoration: none;
+    color: #504658;
+}
+
+.city {
+    color: #ce2e6c;
+}
+
+.clear {
+    clear: both;
+}
+
+hr {
+    color: #ce2e6c;
+}
+
+.admin {
+    width: 80px;
+    height: 75px;
+    border-radius: 50%;
+    margin-left: 40%;
+    float: left;
+    margin-right: 15px;
+}
+
+.foo {
+    padding-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+ font-size: 20px;
+color: #ce2e6c
+    
+}
